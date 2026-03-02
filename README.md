@@ -30,6 +30,9 @@
   <a href="https://github.com/Jeevan-Jijo">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
   </a>
+  <a href="https://instagram.com/nightmarenova_">
+    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+  </a>
 </p>
 
 ---
