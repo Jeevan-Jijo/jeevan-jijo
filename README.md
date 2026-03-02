@@ -3,8 +3,8 @@
   <img src="banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hey👋 I'm JEEVAN JIJO</h1>
-<p align="center">
+<h1 align="left">Hey👋 I'm JEEVAN JIJO</h1>
+<p align="left">
   Data Science Student  |  Designer  |  AI Enthusiast
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:jeevanjijo10@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
@@ -39,8 +39,13 @@
 
 ## 🛠 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,mysql,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,django,mysql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="48" height="48"/>
+  <br>
 </p>
 
 ---
