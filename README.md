@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="banner.gif" width="100%" />
+</p>
 
-<!--
-**jeevan-jijo/jeevan-jijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey👋 I'm JEEVAN JIJO</h1>
+<p align="center">
+  Data Science Student  |  Designer  |  AI Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Pursuing Master's in Computer Science Data Science
+- 💻 Passionate about Web Designing & AI
+- 🚀 Currently learning Deep Learning
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:jeevanjijo10@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://github.com/Jeevan-Jijo">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-Jijo&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-Jijo&layout=compact&theme=default" height="170"/>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,mysql,git,github,vscode" />
+</p>
+
+---
+
+## ⭐ Best Projects
+
+### Data Science
+Machine learning and data analysis projects.
+
+### Artificial Intelligence
+Deep learning experiments and AI models.
+
+---
+
+<p align="center">
+  <img src="footer.gif" width="100%"/>
+</p>
