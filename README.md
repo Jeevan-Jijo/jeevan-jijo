@@ -12,10 +12,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing Master's in Computer Science Data Science
+<img src="coding.gif" width="200" align="right"/>
+
+- 🎓 Pursuing Master's in Computer Science Data Science 
 - 💻 Passionate about Web Designing & AI
 - 🚀 Currently learning Deep Learning
 
+<br clear="right"/>
+  
 ---
 
 ## 🔗 Connect With Me
@@ -44,7 +48,8 @@
   <br>
   <img src="https://skillicons.dev/icons?i=js,html,css,django,mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="48" height="48"/>
   <br>
 </p>
 
@@ -60,6 +65,8 @@ Deep learning experiments and AI models.
 
 ---
 
-<p align="center">
+- 🎓 Pursuing Master's in Computer Science Data Science 
+- 💻 Passionate about Web Designing & AI
+- 🚀 Currently learning Deep Learning
   <img src="footer.gif" width="100%"/>
 </p>
