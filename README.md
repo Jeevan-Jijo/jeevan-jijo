@@ -5,9 +5,8 @@
 
 <h1 align="center">Hey👋 I'm JEEVAN JIJO</h1>
 <p align="center">
-  Data Science Student  |  Designer  |  AI Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Enthusiast;UI%2FUX+Designer;Let's+Build+Something+Amazing" />
 </p>
-
 
 ## 👨‍💻 About Me
 
@@ -18,7 +17,7 @@
 - 🚀 Currently learning Deep Learning
   
 
-<h3 align="left">Connect With Me</h3>
+<h3 align="left">🌐Connect With Me</h3>
 
 <p align="left">
   <a href="mailto:jeevanjijo10@gmail.com">
