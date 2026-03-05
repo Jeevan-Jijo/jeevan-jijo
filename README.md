@@ -3,12 +3,11 @@
   <img src="banner.gif" width="100%" />
 </p>
 
-<h1 align="left">Hey👋 I'm JEEVAN JIJO</h1>
-<p align="left">
+<h1 align="center">Hey👋 I'm JEEVAN JIJO</h1>
+<p align="center">
   Data Science Student  |  Designer  |  AI Enthusiast
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -17,12 +16,9 @@
 - 🎓 Pursuing Master's in Computer Science Data Science 
 - 💻 Passionate about Web Designing & AI
 - 🚀 Currently learning Deep Learning
-
-<br clear="right"/>
   
----
 
-## 🔗 Connect With Me
+<h3 align="left">Connect With Me</h3>
 
 <p align="left">
   <a href="mailto:jeevanjijo10@gmail.com">
@@ -39,7 +35,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠 Languages & Tools
 
@@ -53,7 +49,6 @@
   <br>
 </p>
 
----
 
 ## ⭐ Best Projects
 
@@ -64,9 +59,6 @@ Machine learning and data analysis projects.
 Deep learning experiments and AI models.
 
 ---
-
-- 🎓 Pursuing Master's in Computer Science Data Science 
-- 💻 Passionate about Web Designing & AI
-- 🚀 Currently learning Deep Learning
+<p>
   <img src="footer.gif" width="100%"/>
 </p>
