@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.gif" width="100%" />
+  <img src="banner.gif" height="400px" />
 </p>
 
 <h1 align="center">Hey👋 I'm JEEVAN JIJO</h1>
