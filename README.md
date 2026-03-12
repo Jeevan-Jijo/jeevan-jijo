@@ -57,7 +57,7 @@
 <p align="center">
 
 <a href="https://github.com/Jeevan-Jijo/Gymkhana">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan-Jijo&repo=Gymkhana&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan-Jijo&repo=Gymkhana.&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Jeevan-Jijo/classroom-attendance-yolo">
