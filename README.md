@@ -3,9 +3,12 @@
   <img src="banner.gif" height="350px" />
 </p>
 
-<h1 align="center">Hey👋 I'm JEEVAN JIJO</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Enthusiast;UI%2FUX+Designer;Let's+Build+Something+Amazing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey👋+I'm+JEEVAN+JIJO" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=39FF14&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Enthusiast;UI%2FUX+Designer;Let's+Build+Something+Amazing" />
 </p>
 
 ## 👨‍💻 About Me
@@ -51,11 +54,17 @@
 
 ## ⭐ Best Projects
 
-### Data Science
-Machine learning and data analysis projects.
+<p align="center">
 
-### Artificial Intelligence
-Deep learning experiments and AI models.
+<a href="https://github.com/Jeevan-Jijo/Gymkhana">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan-Jijo&repo=Gymkhana&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Jeevan-Jijo/classroom-attendance-yolo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan-Jijo&repo=AttendX&theme=tokyonight" />
+</a>
+
+</p>
 
 ---
 <p>
